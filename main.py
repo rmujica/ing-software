@@ -1,2 +1,2 @@
-def main():
-	pass
+def printer():
+	print("adios mundo cruel")
