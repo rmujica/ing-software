@@ -1,2 +1,2 @@
 def printer():
-	print("adios mundo cruel")
+	print("hola mundo")
